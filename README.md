@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with everything in my own repos you can improve!
 - ⚡ Fun fact: I'm vegan :P
 ### My GitHub-Stats!
-<img src="https://github.com/thisdudeisvegan/github-stats/blob/master/generated/overview.svg">
-<img src="https://github.com/thisdudeisvegan/github-stats/blob/master/generated/languages.svg">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thisdudeisvegan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
